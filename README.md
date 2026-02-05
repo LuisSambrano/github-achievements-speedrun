@@ -1,5 +1,16 @@
 # 🏆 GitHub Achievements Speedrun
 
+## 🔬 Research & Decision Log
+
+> _Strategy behind the gamification._
+
+| Document                                      | Purpose                              |
+| --------------------------------------------- | ------------------------------------ |
+| [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | Gamification mechanics & viral loops |
+| [prompts/](./research/prompts/)               | Reverse engineering logs             |
+
+This is the ultimate guide to unlocking **GitHub Achievements** (hidden badges) for your profile.
+
 > **Unlock the hidden "Gamer Score" of your GitHub Profile in < 5 minutes.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

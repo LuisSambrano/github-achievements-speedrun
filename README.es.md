@@ -1,6 +1,15 @@
 # 🏆 GitHub Achievements Speedrun (Español)
 
-> **Desbloquea el "Gamer Score" oculto de tu perfil de GitHub en < 5 minutos.**
+## 🔬 Investigación y Registro de Decisiones
+
+> _Estrategia detrás de la gamificación._
+
+| Documento                                     | Propósito                                 |
+| --------------------------------------------- | ----------------------------------------- |
+| [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | Mecánicas de gamificación y loops virales |
+| [prompts/](./research/prompts/)               | Logs de ingeniería inversa                |
+
+Esta es la guía definitiva para desbloquear **GitHub Achievements** (insignias ocultas) para tu perfil de GitHub en < 5 minutos.\*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Achievements](https://img.shields.io/badge/Achievements-Unlocked-purple.svg)](https://github.com/LuisSambrano)

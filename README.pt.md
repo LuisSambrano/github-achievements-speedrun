@@ -5,6 +5,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Achievements](https://img.shields.io/badge/Achievements-Unlocked-purple.svg)](https://github.com/LuisSambrano)
 
+## 🔬 Pesquisa e Registro de Decisões
+
+> _Estratégia por trás da gamificação._
+
+| Documento                                     | Propósito                               |
+| --------------------------------------------- | --------------------------------------- |
+| [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | Mecânicas de gamificação e loops virais |
+| [prompts/](./research/prompts/)               | Logs de engenharia reversa              |
+
 ## 🕹️ O que é isso?
 
 A maioria dos desenvolvedores não sabe que o GitHub tem um **sistema de conquistas oculto**.
