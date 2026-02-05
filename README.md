@@ -85,4 +85,17 @@ I created this guide to help you. **You can help me unlock my final badges:**
 
 ---
 
+## 🔬 Research & Decision Log
+
+> _Strategy behind the gamification._
+
+| Document                                      | Purpose                              |
+| --------------------------------------------- | ------------------------------------ |
+| [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | Gamification mechanics & viral loops |
+| [prompts/](./research/prompts/)               | Reverse engineering logs             |
+
+> **Meta-Strategy**: Read `KEY_FINDINGS.md` to understand viral mechanics.
+
+---
+
 _[Read in Spanish](./README.es.md) | [Read in Portuguese](./README.pt.md)_

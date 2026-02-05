@@ -83,4 +83,17 @@ Criei este guia para ajudar você. **Você pode me ajudar a desbloquear minhas �
 
 ---
 
+## 🔬 Pesquisa e Registro de Decisões
+
+> _Estratégia por trás da gamificação._
+
+| Documento                                     | Propósito                                |
+| --------------------------------------------- | ---------------------------------------- |
+| [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | Mecânicas de gamificação e loops virales |
+| [prompts/](./research/prompts/)               | Logs de engenharia reversa               |
+
+> **Meta-Estratégia**: Leia `KEY_FINDINGS.md` para entender as mecânicas virais.
+
+---
+
 _[Read in English](./README.md) | [Leer en Español](./README.es.md)_
